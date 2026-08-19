@@ -1,4 +1,4 @@
-package com.workforcehub.eureka_server;
+package com.workforcehub.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
